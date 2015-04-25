@@ -2,7 +2,6 @@
   "name": "annotator-document",
   "version": "1.0.0",
   "description": "An extension module for Annotator that adds document metadata to annotations.",
-  "main": "document.js",
   "dependencies": {
     "browserify-shim": "^3.8.5"
   },

@@ -1,3 +1,3 @@
 var annotator = require('annotator');
 
-annotator.ext.document = require('./document');
+annotator.ext.document = require('./document').document;
